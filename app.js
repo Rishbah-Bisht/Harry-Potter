@@ -362,10 +362,10 @@ async function gethouseData() {
 function houseInfo(hary_house) {
 
     const har_img = [
-        { image: '/assets/red.jpg' },
-        { image: '/assets/yellow.jpg' },
-        { image: '/assets/blue.jpg' },
-        { image: '/assets/green.jpg' },
+        { image: '../assets/red.jpg' },
+        { image: '../assets/yellow.jpg' },
+        { image: '../assets/blue.jpg' },
+        { image: '../assets/green.jpg' },
         // Add other houses as needed...
     ];
 
