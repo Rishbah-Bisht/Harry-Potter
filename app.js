@@ -362,10 +362,10 @@ async function gethouseData() {
 function houseInfo(hary_house) {
 
     const har_img = [
-        { image: '../assets/red.jpg' },
-        { image: '../assets/yellow.jpg' },
-        { image: '../assets/blue.jpg' },
-        { image: '../assets/green.jpg' },
+        { image: 'https://api.deepai.org/job-view-file/20b19a40-cba9-49d9-9644-1b1cf6547ae1/outputs/output.jpg' },
+        { image: 'https://api.deepai.org/job-view-file/f8f2bf0e-ed7a-49b4-a9cf-234a0e6730cd/outputs/output.jpg' },
+        { image: 'https://api.deepai.org/job-view-file/0c20b0e0-c755-44ca-8307-69aeabbdb2f6/outputs/output.jpg' },
+        { image: 'https://api.deepai.org/job-view-file/9beb3271-3b5b-4f9c-b97b-4525ab4af4a8/outputs/output.jpg' },
         // Add other houses as needed...
     ];
 
